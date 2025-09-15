@@ -5,7 +5,7 @@ A full-stack e-commerce website built using the **MERN** stack — **MongoDB, Ex
 ---
 
 ## 🌐 Live Demo
-[View Live Site](https://your-live-link.com)  
+[View Live Site](ecommerce-front-chi.vercel.app/)  
 
 ---
 
